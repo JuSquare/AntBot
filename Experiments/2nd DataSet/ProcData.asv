@@ -1,0 +1,122 @@
+%% Loading
+Data = load('2ndExperiments.mat');
+PI_ST = Data.PI_ST;
+PI_OF_ST = Data.PI_OF_ST;
+PI_ST_FUSE = Data.PI_ST_FUSE;
+PI_POL_ST = Data.PI_POL_ST;
+PI_FULL = Data.PI_FULL;
+%% Figure
+    p = 1;
+    figure(p)
+        hold on;
+            plot(100*PI_ST.X(p,1:6),100*PI_ST.Y(p,1:6),'color',[0.0 0.25 0.65],'linewidth',0.1);
+            plot(100*PI_OF_ST.X(p,1:6),100*PI_OF_ST.Y(p,1:6),'color',[0.0 0.2 1.0],'linewidth',0.1);
+            plot(100*PI_ST_FUSE.X(p,1:6),100*PI_ST_FUSE.Y(p,1:6),'color',[0.0 0.6 0.8],'linewidth',0.1);
+            plot(-PI_POL_ST.Y(p,1:6),-PI_POL_ST.X(p,1:6),'color',[0.0 0.8 0.6],'linewidth',0.1);
+            plot(-PI_FULL.Y(p,1:6),-PI_FULL.X(p,1:6),'color',[0.0 0.4 0.4],'linewidth',0.1);
+            plot(100*PI_ST.X(p,6:end),100*PI_ST.Y(p,6:end),'color',[0.0 0.25 0.65],'linewidth',1.5);
+            plot(100*PI_OF_ST.X(p,6:end),100*PI_OF_ST.Y(p,6:end),'color',[0.0 0.2 1.0],'linewidth',1.5);
+            plot(100*PI_ST_FUSE.X(p,6:end),100*PI_ST_FUSE.Y(p,6:end),'color',[0.0 0.6 0.8],'linewidth',1.5);
+            plot(-PI_POL_ST.Y(p,6:end),-PI_POL_ST.X(p,6:end),'color',[0.0 0.8 0.6],'linewidth',1.5);
+            plot(-PI_FULL.Y(p,6:end),-PI_FULL.X(p,6:end),'color',[0.0 0.4 0.4],'linewidth',1.5);
+            plot(0,0,'black+');
+        hold off;
+        axis([-25 455 -150 100]);
+        axis equal;
+        box on;
+        legend('1','2','3','4','5');
+        
+    p = 2;
+    figure(p)
+        hold on;
+            plot(100*PI_ST.X(p,1:6),100*PI_ST.Y(p,1:6),'color',[0.0 0.25 0.65],'linewidth',0.1);
+            plot(100*PI_OF_ST.X(p,1:6),100*PI_OF_ST.Y(p,1:6),'color',[0.0 0.2 1.0],'linewidth',0.1);
+            plot(100*PI_ST_FUSE.X(p,1:6),100*PI_ST_FUSE.Y(p,1:6),'color',[0.0 0.6 0.8],'linewidth',0.1);
+            plot(-PI_POL_ST.Y(p,1:6),-PI_POL_ST.X(p,1:6),'color',[0.0 0.8 0.6],'linewidth',0.1);
+            plot(-PI_FULL.Y(p,1:6),-PI_FULL.X(p,1:6),'color',[0.0 0.4 0.4],'linewidth',0.1);
+            plot(100*PI_ST.X(p,6:end),100*PI_ST.Y(p,6:end),'color',[0.0 0.25 0.65],'linewidth',1.5);
+            plot(100*PI_OF_ST.X(p,6:end),100*PI_OF_ST.Y(p,6:end),'color',[0.0 0.2 1.0],'linewidth',1.5);
+            plot(100*PI_ST_FUSE.X(p,6:end),100*PI_ST_FUSE.Y(p,6:end),'color',[0.0 0.6 0.8],'linewidth',1.5);
+            plot(-PI_POL_ST.Y(p,6:end),-PI_POL_ST.X(p,6:end),'color',[0.0 0.8 0.6],'linewidth',1.5);
+            plot(-PI_FULL.Y(p,6:end),-PI_FULL.X(p,6:end),'color',[0.0 0.4 0.4],'linewidth',1.5);
+            plot(0,0,'black+');
+        hold off;
+        axis([-25 455 -150 100]);
+        axis equal;
+        box on;
+        legend('1','2','3','4','5');
+
+    p = 3;
+    figure(p)
+        hold on;
+            plot(100*PI_ST.X(p,1:6),100*PI_ST.Y(p,1:6),'color',[0.0 0.25 0.65],'linewidth',0.1);
+            plot(100*PI_OF_ST.X(p,1:6),100*PI_OF_ST.Y(p,1:6),'color',[0.0 0.2 1.0],'linewidth',0.1);
+            plot(100*PI_ST_FUSE.X(p,1:6),100*PI_ST_FUSE.Y(p,1:6),'color',[0.0 0.6 0.8],'linewidth',0.1);
+            plot(-PI_POL_ST.Y(p,1:6),-PI_POL_ST.X(p,1:6),'color',[0.0 0.8 0.6],'linewidth',0.1);
+            plot(-PI_FULL.Y(p,1:6),-PI_FULL.X(p,1:6),'color',[0.0 0.4 0.4],'linewidth',0.1);
+            plot(100*PI_ST.X(p,6:end),100*PI_ST.Y(p,6:end),'color',[0.0 0.25 0.65],'linewidth',1.5);
+            plot(100*PI_OF_ST.X(p,6:end),100*PI_OF_ST.Y(p,6:end),'color',[0.0 0.2 1.0],'linewidth',1.5);
+            plot(100*PI_ST_FUSE.X(p,6:end),100*PI_ST_FUSE.Y(p,6:end),'color',[0.0 0.6 0.8],'linewidth',1.5);
+            plot(-PI_POL_ST.Y(p,6:end),-PI_POL_ST.X(p,6:end),'color',[0.0 0.8 0.6],'linewidth',1.5);
+            plot(-PI_FULL.Y(p,6:end),-PI_FULL.X(p,6:end),'color',[0.0 0.4 0.4],'linewidth',1.5);
+            plot(0,0,'black+');
+        hold off;
+        axis([-25 455 -150 100]);
+        axis equal;
+        box on;
+        legend('1','2','3','4','5');
+        
+    p = 4;
+    figure(p)
+        hold on;
+            plot(100*PI_ST.X(p,1:6),100*PI_ST.Y(p,1:6),'color',[0.0 0.25 0.65],'linewidth',0.1);
+            plot(100*PI_OF_ST.X(p,1:6),100*PI_OF_ST.Y(p,1:6),'color',[0.0 0.2 1.0],'linewidth',0.1);
+            plot(100*PI_ST_FUSE.X(p,1:6),100*PI_ST_FUSE.Y(p,1:6),'color',[0.0 0.6 0.8],'linewidth',0.1);
+            plot(-PI_POL_ST.Y(p,1:6),-PI_POL_ST.X(p,1:6),'color',[0.0 0.8 0.6],'linewidth',0.1);
+            plot(-PI_FULL.Y(p,1:6),-PI_FULL.X(p,1:6),'color',[0.0 0.4 0.4],'linewidth',0.1);
+            plot(100*PI_ST.X(p,6:end),100*PI_ST.Y(p,6:end),'color',[0.0 0.25 0.65],'linewidth',1.5);
+            plot(100*PI_OF_ST.X(p,6:end),100*PI_OF_ST.Y(p,6:end),'color',[0.0 0.2 1.0],'linewidth',1.5);
+            plot(100*PI_ST_FUSE.X(p,6:end),100*PI_ST_FUSE.Y(p,6:end),'color',[0.0 0.6 0.8],'linewidth',1.5);
+            plot(-PI_POL_ST.Y(p,6:end),-PI_POL_ST.X(p,6:end),'color',[0.0 0.8 0.6],'linewidth',1.5);
+            plot(-PI_FULL.Y(p,6:end),-PI_FULL.X(p,6:end),'color',[0.0 0.4 0.4],'linewidth',1.5);
+            plot(0,0,'black+');
+        hold off;
+        axis([-25 455 -150 100]);
+        axis equal;
+        box on;
+        legend('1','2','3','4','5');
+        
+    p = 5;
+    figure(p)
+        hold on;
+            plot(100*PI_ST.X(p,1:6),100*PI_ST.Y(p,1:6),'linewidth',0.1);
+            plot(100*PI_OF_ST.X(p,1:6),100*PI_OF_ST.Y(p,1:6),'linewidth',0.1);
+            plot(100*PI_ST_FUSE.X(p,1:6),100*PI_ST_FUSE.Y(p,1:6),'linewidth',0.1);
+            plot(-PI_POL_ST.Y(p,1:6),-PI_POL_ST.X(p,1:6),'linewidth',0.1);
+            plot(-PI_FULL.Y(p,1:6),-PI_FULL.X(p,1:6),'linewidth',0.1);
+            plot(100*PI_ST.X(p,6:end),100*PI_ST.Y(p,6:end),'linewidth',1.5);
+            plot(100*PI_OF_ST.X(p,6:end),100*PI_OF_ST.Y(p,6:end),'linewidth',1.5);
+            plot(100*PI_ST_FUSE.X(p,6:end),100*PI_ST_FUSE.Y(p,6:end),'linewidth',1.5);
+            plot(-PI_POL_ST.Y(p,6:end),-PI_POL_ST.X(p,6:end),'linewidth',1.5);
+            plot(-PI_FULL.Y(p,6:end),-PI_FULL.X(p,6:end),'linewidth',1.5);
+            plot(0,0,'black+');
+        hold off;
+        axis([-25 455 -150 100]);
+        axis equal;
+        box on;
+        legend('1','2','3','4','5');
+%% Statistiques
+ErreurCM = zeros(5,5);
+ErreurCM(1,:) = PI_ST.ErreurCM;
+ErreurCM(2,:) = PI_OF_ST.ErreurCM;
+ErreurCM(3,:) = PI_ST_FUSE.ErreurCM;
+ErreurCM(4,:) = PI_POL_ST.ErreurCM;
+ErreurCM(5,:) = PI_FULL.ErreurCM;
+ErreurPCT = zeros(5,5);
+ErreurPCT(1,:) = PI_ST.ErreurPCT;
+ErreurPCT(2,:) = PI_OF_ST.ErreurPCT;
+ErreurPCT(3,:) = PI_ST_FUSE.ErreurPCT;
+ErreurPCT(4,:) = PI_POL_ST.ErreurPCT;
+ErreurPCT(5,:) = PI_FULL.ErreurPCT;
+iosr.statistics.boxPlot(ErreurPCT','showViolin',true,'violinColor',[0.2 0.3 0.5],'boxwidth',0.1);
+box on;
