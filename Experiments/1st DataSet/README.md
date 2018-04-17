@@ -6,6 +6,7 @@ This repository contains the following parts:
 * 'Area.m': a matlab code for the computation of the confidence ellipses areas in cm²;
 * 'MinVolEllipse.m': a matlab code for the computation of the smallest ellipse containing a cluster of coordinates (matrix formalism);
 * 'Ellipse_plot.m': a matlab code that draws ellipses using the matrix formalism;
+* 'NormalityTest.m': a matlab code for normality test of the homing errors (Lilliefors' test).
 
 The PI strategies tested here are:
 * PI-ST (Distance: stride integration, Heading: stride integration);
