@@ -2,7 +2,8 @@
 
 This repository contains the following parts:
 * '2ndExperiments.mat': a matlab file containing the trajectories (X,Y) of the hexapod robot AntBot with respect to the five ant inspired path integration (PI) strategies (see below);
-* 'ProcData.m': a matlab code displaying the data contained in the above file.
+* 'ProcData.m': a matlab code displaying the data contained in the above file;
+* 'NormalityTest.m': a matlab code for normality test of the homing errors (Lilliefors' test).
 
 The PI strategies tested here are:
 * PI-ST (Distance: stride integration, Heading: stride integration);
