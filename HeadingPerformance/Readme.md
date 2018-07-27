@@ -19,8 +19,7 @@ Overall results (contain the AoPs, AoP errors, etc.):
 * Data_Changeable_Sky.mat
 * Data_Covered_Sky.mat
 
-Run the Main.m file sections after sections.
-Before, run the install.m file in the IoSR/+iosr folder (for violin plots).
+Run the Main.m file. Before, run the install.m file in the IoSR/+iosr folder (for violin plots).
 
 The experimental conditions are provided in the ExpConditions.ods file. 
 
