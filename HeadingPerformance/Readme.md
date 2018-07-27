@@ -22,6 +22,6 @@ Overall results (contain the AoPs, AoP errors, etc.):
 Run the Main.m file sections after sections.
 Before, run the install.m file in the IoSR/+iosr folder (for violin plots).
 
-The experimental conditions are sum up in ExpConditions.ods file. 
+The experimental conditions are provided in the ExpConditions.ods file. 
 
 _The results presented in these datasets have been submitted for publication in the Journal of the Royal Society Interface._
