@@ -1,11 +1,11 @@
 # Celestial compass: Heading estimation performances
 
 The five AOP methods are contained in the following files:
-	- AntBot.m
-	- Extended.m
-	- Matrix.m
-	- Sahabot.m
-	- Stokes.m
+* AntBot.m
+* Extended.m
+* Matrix.m
+* Sahabot.m
+* Stokes.m
 
 The CorrectPsi.m file aims at correcting the angles of the four methods using the half arctangent. 
 
@@ -27,4 +27,4 @@ The experimental conditions are sum up in ExpConditions.ods file.
 
 For any question, feel free to contact Julien Dupeyroux: julien.dupeyroux@univ-amu.fr 
 
-_The results presented in these datasets have been submitted for publication in the Journal of the Royal Society Interface.
+_The results presented in these datasets have been submitted for publication in the Journal of the Royal Society Interface._
