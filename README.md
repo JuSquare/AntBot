@@ -56,8 +56,7 @@ legged walking robot designed for desert ant-like navigation tasks. IFAC Word Co
 France.
 <br/>URL: https://hal-amu.archives-ouvertes.fr/hal-01643176/
 
-*Two other conference papers are currently being produced and will be submitted at the next 28th Mediterranean
-Conference on Control and Automation (MED’2020), IEEE, to be held in Saint Raphaël, France:*
+*Two other conference papers have been submitted at the next 28th Mediterranean Conference on Control and Automation (MED’2020), IEEE, to be held in Saint Raphaël, France:*
 
 [2] Dupeyroux, J., Viollet, S., and Serres, J. Insect-inspired panoramic vision for autonomous navigation on-board
 a hexapod robot.
