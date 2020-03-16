@@ -114,26 +114,23 @@ New Scientist - Robot mimics desert ants to find its way home without GPS.
 <br/>URL: https://www.newscientist.com/article/2193880-robot-mimics-desert-ants-to-find-its-way-home-without-gps/
 
 de Volkskrant - Robot weet de weg zonder gps dankzij woestijnmier.
-<br/>URL: 
+<br/>URL: https://www.volkskrant.nl/wetenschap/robot-weet-de-weg-zonder-gps-dankzij-woestijnmier-br-~b8b98428/?referer=https%3A%2F%2Fwww.google.com%2F
 
 Le Monde - AntBot, un robot autonome inspiré par des fourmis du désert.
-<br/>URL: 
+<br/>URL: https://www.lemonde.fr/sciences/video/2019/02/15/antbot-un-robot-autonome-inspire-par-des-fourmis-du-desert_5424059_1650684.html
 
 Les Echos - Un capteur peu coûteux pour naviguer sans GPS.
-<br/>URL: 
+<br/>URL: https://www.lesechos.fr/amp/31/2247531.php
 
 France Inter - C’est une innovation marquante: ce robot-fourmi s’oriente sans GPS.
-<br/>URL: 
-
-Cité des Sciences et de l’Industrie - Robot à pattes sans GPS.
-<br/>URL: 
+<br/>URL: https://www.franceinter.fr/sciences/le-robot-fourmi-qui-la-joue-biomimetisme-et-s-oriente-sans-gps
 
 La Provence - Marseille : le robot inspiré de la fourmi du désert.
-<br/>URL: 
+<br/>URL: https://www.laprovence.com/article/economie/5374978/ils-inspirent-nos-chercheurs.html
 
 Science et Avenir - Ce robot se déplace en se repérant comme les fourmis du désert.
-<br/>URL: 
+<br/>URL: https://www.sciencesetavenir.fr/high-tech/robot/voici-le-premier-robot-autonome-sans-gps_131427
 
 Science et Vie - Ce robot réussit à s’orienter grâce à la lumière du soleil.
-<br/>URL: 
+<br/>URL: https://www.science-et-vie.com/technos-et-futur/ce-robot-reussit-a-s-orienter-grace-a-la-lumiere-du-soleil-49006
 
