@@ -105,21 +105,18 @@ Nature Electronics - AntBot makes its own way home.
 <br/>URL: https://www.nature.com/articles/s41928-019-0228-z
 
 Wired - A 6-legged robot stares at the sky to navigate like a desert ant.
-<br/>URL: 
+<br/>URL: https://www.wired.com/story/a-6-legged-robot-stares-at-the-sky-to-navigate-like-a-desert-ant/
 
 Digital Trends - Ant-inspired walking robot navigates without GPS by using polarized light.
-<br/>URL: 
+<br/>URL: https://www.digitaltrends.com/cool-tech/antbot-polarized-light-navigation/
 
 New Scientist - Robot mimics desert ants to find its way home without GPS.
-<br/>URL: 
+<br/>URL: https://www.newscientist.com/article/2193880-robot-mimics-desert-ants-to-find-its-way-home-without-gps/
 
 de Volkskrant - Robot weet de weg zonder gps dankzij woestijnmier.
 <br/>URL: 
 
 Le Monde - AntBot, un robot autonome inspiré par des fourmis du désert.
-<br/>URL: 
-
-Challenges, Reuters - Un robot à pattes qui a le sens de l’orientation.
 <br/>URL: 
 
 Les Echos - Un capteur peu coûteux pour naviguer sans GPS.
@@ -128,27 +125,15 @@ Les Echos - Un capteur peu coûteux pour naviguer sans GPS.
 France Inter - C’est une innovation marquante: ce robot-fourmi s’oriente sans GPS.
 <br/>URL: 
 
-CNRS - Le premier robot à pattes qui se déplace sans GPS.
-<br/>URL: 
-
 Cité des Sciences et de l’Industrie - Robot à pattes sans GPS.
 <br/>URL: 
 
 La Provence - Marseille : le robot inspiré de la fourmi du désert.
 <br/>URL: 
 
-La Marseillaise - Un robot qui se déplace sans GPS conçu à Marseille.
-<br/>URL: 
-
-Futura Science - Voici Antbot, un robot inspiré des fourmis et qui se déplace sans GPS.
-<br/>URL: 
-
 Science et Avenir - Ce robot se déplace en se repérant comme les fourmis du désert.
 <br/>URL: 
 
 Science et Vie - Ce robot réussit à s’orienter grâce à la lumière du soleil.
-<br/>URL: 
-
-Trust My Science - AntBot: le tout premier robot évoluant sans GPS pour se repérer.
 <br/>URL: 
 
