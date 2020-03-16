@@ -1,8 +1,12 @@
 # AntBot
 
-This git-hub is dedicated to my PhD work on the hexapod walking robot AntBot. It gathers 3D parts for replication, but also some programs and experimental results. These materials go along with the following publications (international peer reviewed journals and conferences):
+This git-hub repository is dedicated to my PhD work on the hexapod walking robot AntBot. It gathers 3D parts for replication, but also some programs and experimental results. These materials go along with the following publications (international peer reviewed journals and conferences):
 
-## Journal papers
+## Awards and Honnours
+
+## Communications about the AntBot project
+
+### Journal papers
 
 [3] Dupeyroux, J., Serres, J., and Viollet, S. (2019). Antbot: a six-legged walking robot able to home like desert ants
 in outdoor environments. Science Robotics, vol. 4 (eaau0307).
@@ -19,7 +23,7 @@ outdoor robot navigation. Robotics and Autonomous Systems, vol. 117 (40-56).
 <br/>DOI: https://www.doi.org/10.1016/j.robot.2019.04.007
 <br/>IF: 2.928 (JCR rank 11/26 in Robotics, and 45/134 in Computer Science & Artificial Intelligence).
 
-## International conferences
+### International conferences
 
 [6] Dupeyroux, J., Serres, J., and Viollet, S. (2019). AntBot: a fully insect-inspired hexapod homing like desert
 ants. 4th International Conference on Invertebrate Vision (ICIV 2019), Bäckaskog Castle, Suède.
@@ -70,19 +74,19 @@ fourmi AntBot. Techniques & Culture, vol. 73 (in press).
 à la navigation à vue sans GPS ni magnétomètre. Techniques de l’Ingénieur (Réf : IN236).
 <br/>URL: https://www.techniques-ingenieur.fr/base-documentaire/innovation-th10/conception-durable-inspiree-du-vivant-le-biomimetisme-42616210/antbot-un-robot-qui-s-oriente-comme-une-fourmi-in236/
 
-## National conferences (France)
+### National conferences (France)
 
 [1] Dupeyroux, J., Viollet, S., and Serres, J. (2017). Providing an autonomous hexapod walking robot with the ability
 to reorientate : application of a novel ant-inspired celestial compass. Journées Jeunes Chercheurs en Robotique
 2017, Bayonne, France.
 <br/>URL: https://jjcr2017.sciencesconf.org/data/pages/JJCR17_DUPEYROUX_Julien.pdf
 
-## Patents
+### Patents
 
 [1] Dupeyroux, J., Monnoyer, J., Serres, J., and Viollet, S. Dispositif de détection du cap d’un véhicule par détection
 de photons polarisés linéairement. Patent application n. 2018P00919, FR/JPX, Sept. 2018.
 
-## Science popularization
+### Science popularization
 
 [3] Dupeyroux, J., Viollet, S., and Serres, J. (2019). AntBot is able to go home like desert ants.
 <br/>The Science Breaker.
@@ -96,7 +100,7 @@ de photons polarisés linéairement. Patent application n. 2018P00919, FR/JPX, S
 <br/>La Lettre de Grand Luminy Technopôle, no. 100, p. 12.
 <br/>URL: https://www.grandluminy.com/sites/default/files/lettre-100mai-19_grandluminy.pdf
 
-## Press coverage (selected)
+### Press coverage (selected)
 
 Science - This ant-inspired robot can navigate better than civilian GPS.
 <br/>URL: https://www.sciencemag.org/news/2019/02/ant-inspired-robot-can-navigate-better-civilian-gps
