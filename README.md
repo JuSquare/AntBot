@@ -83,7 +83,8 @@ to reorientate : application of a novel ant-inspired celestial compass. Journée
 ### Patents
 
 [1] Dupeyroux, J., Monnoyer, J., Serres, J., and Viollet, S. Dispositif de détection du cap d’un véhicule par détection
-de photons polarisés linéairement. Patent application n. 2018P00919, FR/JPX, Sept. 2018.
+de photons polarisés linéairement. Patent no. FR3086088.
+<br/>URL: https://worldwide.espacenet.com/publicationDetails/biblio?CC=FR&NR=3086088A1&KC=A1&FT=D&ND=1&date=20200320&DB=&locale=en_EP#
 
 ### Science popularization
 
