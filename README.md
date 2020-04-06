@@ -64,7 +64,7 @@ a hexapod robot.
 [1] Dupeyroux, J., Viollet, S., and Serres, J. Sensing the celestial pattern of polarization yields new opportunities
 for autonomous urban ground navigation.
 
-## National peer-reviewed journal papers (France)
+### National peer-reviewed journal papers (France)
 
 [2] Viollet, S., Dupeyroux, J., and Serres, J. (2020). Conception et réalisation d’un robot bio-inspiré : le robot
 fourmi AntBot. Techniques & Culture, vol. 73 (in press).
